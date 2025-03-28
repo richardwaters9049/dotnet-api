@@ -9,7 +9,6 @@ This project is a **.NET 9 Web API** designed for managing **facilities, assets,
 - Build a **scalable and modular** web API.
 - Use **Entity Framework Core** with **PostgreSQL**.
 - Follow **RESTful API principles**.
-- Ensure **UK English** consistency in comments and responses.
 - Provide clear documentation and structure.
 
 ## Expected Output
