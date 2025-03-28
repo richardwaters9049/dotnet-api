@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "SqV8Eg0VIXxPb7TZcnP7un5O0y5lZOJKmwbaJG8OVsQ=",
+  "Source": "FacilitiesManagementAPI",
+  "BasePath": "_content/FacilitiesManagementAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
