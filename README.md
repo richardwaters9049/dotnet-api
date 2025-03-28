@@ -44,7 +44,7 @@ dotnet add package Swashbuckle.AspNetCore
 ### **Create the Database** (Using pgAdmin4 or PSQL CLI)
 
 ```sh
-PGUSER=postgres PGHOST=localhost PGPASSWORD=riv PGPORT=5433 psql -c "CREATE DATABASE facilities_db;"
+PGUSER=postgres PGHOST=localhost PGPASSWORD=*** PGPORT=*** psql -c "CREATE DATABASE facilities_db;"
 ```
 
 ---
